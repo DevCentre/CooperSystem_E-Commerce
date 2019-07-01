@@ -33,3 +33,5 @@
   <li><b>Usuário:</b> demo@CooperSystem.com</li>
   <li><b>Senha:</b> 12345678</li>
 </ul>
+
+<p>OBS: O banco de dados foi criado sem senha, com o usuário root. Caso seja utilizado um banco de dados com acesso restringido - usuário e senha diferentes - fazer a alteração necessário no arquivo .env</p>
