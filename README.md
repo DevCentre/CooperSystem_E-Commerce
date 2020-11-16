@@ -1,7 +1,7 @@
-<h1>Projeto CooperSystem E-commerce</h1>
+<h1>Projeto CS E-commerce</h1>
 
 
-<p> Este projeto foi desenvolvido como um demo de um e-commerce para a CooperSystem</p>
+<p> Este projeto foi desenvolvido como um demo de um e-commerce para a CS</p>
 
 
 <h1>Linguagem</h1>
